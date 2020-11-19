@@ -114,15 +114,15 @@ b{
 }
 
 .skill-html {
-  background-image: url("..img/icon-html.svg");
+  background-image: url(..img/icon-html.svg);
 }
 
 .skill-css {
-  background-image: url("..img/icon-css.svg");
+  background-image: url(..img/icon-css.svg);
 }
 
 .skill-js{
-  background-image: url("..img/js.svg");
+  background-image: url(..img/js.svg);
 }
 
 .level {
