@@ -45,12 +45,12 @@ b{
 
 .header-email {
   padding-left: 30px;
-  background-image: url("..img/icon-email.svg");
+  background-image: url(main/img/icon-email.svg);
 }
 
 .header-phone {
   padding-left: 25px;
-  background-image: url("..img/icon-phone.svg");
+  background-image: url(..img/icon-phone.svg);
 }
 
 .hero-image {
